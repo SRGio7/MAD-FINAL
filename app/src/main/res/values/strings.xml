@@ -1,0 +1,49 @@
+<resources>
+    <string name="app_name">CAMABA JAVA</string>
+    <string name="app_title">CAMABA UNKLAB</string>
+
+    <!-- Login -->
+    <string name="email_hint">Masukkan email Anda</string>
+    <string name="password_hint">Masukkan password Anda</string>
+    <string name="login">Masuk</string>
+    <string name="sign_up_link">Belum punya akun? Daftar di sini</string>
+    <string name="role_hint">Pilih Peran</string>
+    <string name="logo_desc">Logo UNKLAB</string>
+    <string name="go_to_login">Ke Halaman Login</string>
+
+    <!-- Sign Up -->
+    <string name="label_name">Nama Lengkap</string>
+    <string name="hint_name">Masukkan nama lengkap Anda</string>
+    <string name="label_email">Email</string>
+    <string name="hint_email">Masukkan email Anda</string>
+    <string name="label_birth">Tempat, Tanggal Lahir</string>
+    <string name="hint_birth">Contoh: Manado, 01 Januari 2000</string>
+    <string name="label_nomor_camaba">Nomor Camaba</string>
+    <string name="hint_nomor_camaba">Masukkan nomor camaba Anda</string>
+    <string name="label_password">Password</string>
+    <string name="hint_password">Masukkan password Anda</string>
+    <string name="btn_register">Daftar</string>
+    <string name="link_login">Sudah punya akun? Login di sini</string>
+
+    <!-- User Roles -->
+    <string-array name="user_roles">
+        <item>CAMABA</item>
+        <item>STAF</item>
+    </string-array>
+
+    <!-- Health Check Registration -->
+    <string name="hint_nama">Masukkan nama lengkap</string>
+    <string name="hint_dob">DD/MM/YYYY</string>
+    <string name="hint_notes">Informasi tambahan (opsional)</string>
+    <string name="btn_take_photo">Ambil Foto</string>
+    <string name="btn_submit">Kirim Pendaftaran</string>
+    <string name="msg_required_field">Bidang ini wajib diisi</string>
+    <string name="msg_pick_mcu_date">Silakan pilih tanggal MCU</string>
+    <string name="msg_take_photo_first">Silakan ambil foto terlebih dahulu</string>
+    <string name="msg_form_success">Pendaftaran berhasil!</string>
+    <string name="msg_form_failed">Pendaftaran gagal: %1$s</string>
+    <string name="mcu_date_prompt">Pilih tanggal MCU</string>
+    <string name="mcu_date_1">Senin, 12 Juni 2023</string>
+    <string name="mcu_date_2">Rabu, 14 Juni 2023</string>
+    <string name="mcu_date_3">Jumat, 16 Juni 2023</string>
+</resources>

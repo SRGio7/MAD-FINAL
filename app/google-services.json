@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "390085037950",
+    "firebase_url": "https://mcu-camaba-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "mcu-camaba",
+    "storage_bucket": "mcu-camaba.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:390085037950:android:14cad36adeaa2ab609ed2f",
+        "android_client_info": {
+          "package_name": "com.example.camaba"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAIof1fjmByPyt0_Dqge8uunr5GO6-Sn9c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:390085037950:android:25b93876a952b6a709ed2f",
+        "android_client_info": {
+          "package_name": "com.example.camaba_mcu"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAIof1fjmByPyt0_Dqge8uunr5GO6-Sn9c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:390085037950:android:24481cb38aa8caa709ed2f",
+        "android_client_info": {
+          "package_name": "com.example.cmaba_java"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAIof1fjmByPyt0_Dqge8uunr5GO6-Sn9c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
